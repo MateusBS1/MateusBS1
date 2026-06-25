@@ -14,56 +14,56 @@ Opa, me chamo Mateus e tenho 20 anos. Fiz ensino médio integrado ao curso técn
           alt="CSS"
           width="30px"
           style="padding-right: 10px;"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-
-<img 
-          align="left"
-          alt="CSS"
-          width="30px"
-          style="padding-right: 10px;"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
 <img 
           align="left"
           alt="CSS"
           width="30px"
           style="padding-right: 10px;"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-          
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+/>
 
 <img 
           align="left"
           alt="CSS"
           width="30px"
           style="padding-right: 10px;"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-
-
-<img 
-          align="left"
-          alt="CSS"
-          width="30px"
-          style="padding-right: 10px;"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-          
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>          
 
 <img 
           align="left"
           alt="CSS"
           width="30px"
           style="padding-right: 10px;"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
 
 <img 
           align="left"
           alt="CSS"
           width="30px"
           style="padding-right: 10px;"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>          
 
+<img 
+          align="left"
+          alt="CSS"
+          width="30px"
+          style="padding-right: 10px;"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+
+<img 
+          align="left"
+          alt="CSS"
+          width="30px"
+          style="padding-right: 10px;"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
 
 <img 
           align="left"
@@ -81,9 +81,6 @@ Opa, me chamo Mateus e tenho 20 anos. Fiz ensino médio integrado ao curso técn
           style="padding-right: 10px;"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
-
----
 
 ## 📲 Entre em contato comigo 💻
 
