@@ -4,7 +4,7 @@
 
 ## Quem eu sou
 
-Opa, me chamo Mateus e tenho 20 anos. Fiz ensino médio integrado ao curso técnico de Informática pelo IFPB - Campus João Pessoa, concluído em 2025. Atualmente (2026), estou cursando Engenharia Elétrica pelo IFPB - Campus João Pessoa. Tenho forte interesse por tecnologia e programação, busco integrar conhecimentos teóricos vistos em aulas, cursos e formações a projetos reais, que se propõem a resolver problemas cotidianos e, assim, buscar soluções cada vez mais palpáveis, permitindo meu próprio aprimoramento profissional e pessoal. 
+<p>Opa, me chamo Mateus e tenho 20 anos. Fiz ensino médio integrado ao curso técnico de Informática pelo IFPB - Campus João Pessoa, concluído em 2025. Atualmente (2026), estou cursando Engenharia Elétrica pelo IFPB - Campus João Pessoa. Tenho forte interesse por tecnologia e programação, busco integrar conhecimentos teóricos vistos em aulas, cursos e formações a projetos reais, que se propõem a resolver problemas cotidianos e, assim, buscar soluções cada vez mais palpáveis, permitindo meu próprio aprimoramento profissional e pessoal.<p/> 
 ---
 
 **🤖 Linguagens & Tecnologias:**
@@ -83,7 +83,7 @@ Opa, me chamo Mateus e tenho 20 anos. Fiz ensino médio integrado ao curso técn
 />
 
 <br/>
-
+<br/>
 ## 📲 Entre em contato comigo 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matt._bs/)
