@@ -82,7 +82,7 @@ Opa, me chamo Mateus e tenho 20 anos. Fiz ensino médio integrado ao curso técn
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
----
+<br/>
 
 ## 📲 Entre em contato comigo 
 
