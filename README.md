@@ -83,6 +83,8 @@ Opa, me chamo Mateus e tenho 20 anos. Fiz ensino médio integrado ao curso técn
 />
 
 
+---
+
 ## 📲 Entre em contato comigo 💻
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matt._bs/)
