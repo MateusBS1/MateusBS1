@@ -82,3 +82,6 @@ Opa, me chamo Mateus e tenho 20 anos. Fiz ensino médio integrado ao curso técn
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+## 📲 Entre em contato comigo 💻
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matt._bs/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-barbosa-da-silva-684204369/)
