@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🧑🏻‍💻 Mateus Barbosa da Silva
 
-<!--
-**MateusBS1/MateusBS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Técnico em Informática e futuro Engenheiro Eletricista`**
 
-Here are some ideas to get you started:
+Opa, me chamo Mateus e tenho 20 anos. Fiz ensino médio integrado ao curso técnico de Informática pelo IFPB - Campus João Pessoa, concluído em 2025. Atualmente (2026), estou cursando Engenharia Elétrica pelo IFPB - Campus João Pessoa. Tenho forte interesse por tecnologia e programação, busco integrar conhecimentos teóricos vistos em aulas, cursos e formações a projetos reais, que se propõem a resolver problemas cotidianos e, assim, buscar soluções cada vez mais palpáveis, permitindo meu próprio aprimoramento profissional e pessoal. 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🤖 Linguagens & Tecnologias:**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />)
+![PHP](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />)
+![Laravel](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />)
+![C++](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />)
+! [SQL](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase original.svg" />)
+          
